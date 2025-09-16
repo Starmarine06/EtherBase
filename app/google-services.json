@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596271270320",
+    "project_id": "etherbase-a3ccd",
+    "storage_bucket": "etherbase-a3ccd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596271270320:android:a2afbf22c73d6b64b6ae75",
+        "android_client_info": {
+          "package_name": "com.starmarine06.etherbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0jfnlpv92NzlCSw4T2Ra4fgvkZQkCQB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
